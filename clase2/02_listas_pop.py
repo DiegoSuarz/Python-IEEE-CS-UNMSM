@@ -8,6 +8,6 @@ print("Mi lista contiene: {}".format(lista))
 
 #Eliminando un elemento de la lista
 
-lista.pop(1) #eliminando el segundo elemento de la lista
+lista.pop(1) #eliminando el segundo elemento de la lista (True)
 
 print("Mi lista actualizada contiene: {}".format(lista))

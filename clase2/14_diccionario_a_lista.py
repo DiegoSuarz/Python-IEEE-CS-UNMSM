@@ -10,7 +10,7 @@ dictToList = list(persona)
 
 print("El diccionario convertido a una lista es el siguiente: {}".format(dictToList))
 
-"""Obteniendo los valore del diccionario a una lista"""
+"""Obteniendo los valores del diccionario a una lista"""
 
 valuesDict = list(persona.values())
 print("Los valores del diccionario convertido a una lista es el siguiente: {}".format(valuesDict))

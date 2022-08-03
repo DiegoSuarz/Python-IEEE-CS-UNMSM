@@ -1,6 +1,6 @@
 """Estructura de datos"""
 
-"""list.clear() ->Permite limpiar todos los elemntos de la lista
+"""list.clear() ->Permite limpiar todos los elementos de la lista
 pero no elimina la lista como tal.
 """
 
