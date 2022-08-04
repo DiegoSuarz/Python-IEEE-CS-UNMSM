@@ -11,3 +11,4 @@ lista = ["Python", "java", "4523523", 150.50]
 listavacia = []
 
 print("Mi lista es: {}".format(lista))
+print(len(lista))
